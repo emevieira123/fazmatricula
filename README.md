@@ -1,16 +1,10 @@
-# fazmatricula
+# FazMatricula
 
-A new Flutter project.
+O Projeto foi realizado com a linguagem de programação 
+Dart com Framework Flutter e utilizado como Trabalho de 
+conclusão de Curso da Faculdade de Análise e Desenvolvimento 
+de Sistemas, esse projeto consistia em um APP para realização 
+de matricula em instituições acadêmicas, com o objetivo de 
+facilitar e agilizar o processo.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://uploaddeimagens.com.br/images/003/096/756/full/Captura_de_Tela_2021-02-23_a%CC%80s_10.25.50.png?1614090371" />
